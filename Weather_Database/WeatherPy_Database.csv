@@ -1,4 +1,4 @@
-City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
 0,Saint George,US,37.1041,-113.5841,40.24,31,0,1.01,clear sky
 1,Codrington,AU,-38.2667,141.9667,67.28,59,77,14.92,broken clouds
 2,Rikitea,PF,-23.1203,-134.9692,78.08,74,100,18.41,overcast clouds
